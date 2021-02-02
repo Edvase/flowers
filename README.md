@@ -1,2 +1,2 @@
 # flowers
-https://github.com/Edvase/flowers.git
+https://edvase.github.io/flowers/
